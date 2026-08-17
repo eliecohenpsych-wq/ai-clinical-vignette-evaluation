@@ -6,7 +6,7 @@ This is a demonstration project, not a peer-reviewed study or validated research
 
 ## Methodology
 
-**Domain.** Vignettes were designed to probe suicide/crisis risk assessment specifically, chosen as an area of direct clinical authority (forensic risk-assessment training; ongoing suicide risk evaluation in current clinical practice).
+**Domain.** Vignettes were designed to probe suicide/crisis risk assessment specifically, an area of ongoing clinical relevance in current practice, including routine suicide risk evaluation as part of clinical work at Lyra Health.
 
 **Risk-tier framework.** Vignettes were constructed to span a range of risk tiers informed by SAMHSA's SAFE-T framework ([SAMHSA SAFE-T flyer, PEP24-01-036](https://library.samhsa.gov/sites/default/files/safet-flyer-pep24-01-036.pdf)), with the ideation gradient (wish to die → active ideation → ideation with method → ideation with intent → ideation with intent and specific plan) informed by the Columbia Protocol (C-SSRS). Risk tiers used: **Low** (thoughts of death, no plan/intent/behavior), **Moderate** (ideation with a plan, no intent or behavior), **High** (ideation with plan, method, and intent to carry it out).
 
